@@ -101,3 +101,7 @@ ENV/
 # User-specific stuff:
 .idea/**/vcs.xml
 
+.idea/misc.xml
+.idea/modules.xml
+.idea/python_examples.iml
+.idea/workspace.xml
